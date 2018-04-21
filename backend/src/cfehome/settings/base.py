@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'videoposts',
     'postcollections',
     'comments',
+    'registrations',
     'rest_framework',
 ]
 
